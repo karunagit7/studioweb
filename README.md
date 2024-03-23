@@ -21,5 +21,5 @@ Welcome to StudioLuxe Admin Website! This project is a frontend-only web applica
 
 ## Contact
 
-For inquiries or support, please contact 7904227167 at karnakaran.job@gmail.com.
+For inquiries or support, please contact +91 7904227167 at karnakaran.job@gmail.com.
 
