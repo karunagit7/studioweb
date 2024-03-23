@@ -1,7 +1,7 @@
 # studioweb
-# StudioLuxe Admin Website
+# Studio Admin Website
 
-Welcome to StudioLuxe Admin Website! This project is a frontend-only web application serving as the admin dashboard for managing available stocks, sales, customer lists, pending amounts, and more for a frame and photo print store.
+Welcome to Studio Admin Website! This project is a frontend-only web application serving as the admin dashboard for managing available stocks, sales, customer lists, pending amounts, and more for a frame and photo print store.
 
 ## Features
 
